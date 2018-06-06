@@ -1,0 +1,159 @@
+.split {
+    height: 100%;
+    width: 50%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    overflow-x: hidden;
+    padding-top: 20px;
+  }
+  
+  /* Control the left side */
+  .left {
+    left: 0;
+    
+  }
+  
+  /* Control the right side */
+  .right {
+    right: 0;
+    
+  }
+  
+
+.modal-dialog{
+
+    position: absolute;
+    margin: auto;
+    
+    
+    
+}
+
+
+.main-section{
+
+
+    margin: 0 auto;
+    margin-top: 130 px;
+    padding: 0;
+    margin: 0px 600px;
+
+}
+
+.content{
+
+    position: absolute;
+
+    background-color: rgb(172, 9, 91);
+    font-family:  'Roboto', Georgia;
+    opacity: 0.8;
+    padding: 0px 18px;
+    left: 50%;
+    margin-top: 300px;
+    
+}
+
+.user-img img{
+    position: absolute ; 
+
+    left: 55px;
+    margin-top: -170px;
+    height: 200px;
+    width: auto;
+    border-radius: 5px;
+}
+
+.form-group{
+
+    margin-bottom: 25px;
+    
+}
+
+.form-group input{
+
+    border-radius: 5px;
+    font-size: 18px;
+    height: 42px;
+    border: 0;
+    padding-left: 80px;
+
+}
+
+
+
+.icon-position{
+
+    position: absolute ; 
+    font-size: 22px; 
+    color: teal ; 
+    left: 28px;
+    padding-top: 4px;
+    margin-top: 6px;
+
+}
+
+button{
+
+    width: 40%;
+    margin: 5px 0px 25px;
+    border-radius: 10px;
+    font: bold;
+    font-size: 15px;
+    color: antiquewhite;
+    font-family:  'Roboto', Cambria;
+    margin-bottom: 10px;
+
+}
+
+.btn
+{
+    margin: 0px 90px;
+    padding: 10px 10px;
+    background-color: rgb(12, 32, 143);
+}
+
+
+
+.forgot{
+    
+    margin: 0px 90px;
+    margin-bottom: 10px;
+}
+
+.social-login{
+
+
+    font-family:   'Cambria';
+    font-size: 25px;
+    opacity: 0.8;
+    padding: 0px 18px;
+    margin-left: 100px;
+    margin-top: 200px;
+    color: antiquewhite;
+
+}
+
+.divider{
+    width:10px;
+    height:auto;
+    display:inline-block;
+}
+
+.social-box{
+
+
+    position: absolute;
+    margin-top: -10px;
+    margin-left: 100px;
+    font-size: 12px;
+ 
+
+}
+
+
+.fb-ui{
+
+    margin: 10px 90px;
+  
+}

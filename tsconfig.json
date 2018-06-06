@@ -16,5 +16,10 @@
       "es2017",
       "dom"
     ]
+  },
+  "paths": {
+    "firebaseui-angular": [
+      "dist/firebaseui-angular-library"
+    ]
   }
 }

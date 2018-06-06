@@ -1,0 +1,37 @@
+button{
+
+    position: absolute;
+    left: 1500px;
+    width: 100px;
+    margin-top:  -500px;
+    margin: 5px 0px 25px;
+    border-radius: 10px;
+    font: bold;
+    font-size: 15px;
+    color: antiquewhite;
+    font-family:  'Roboto', Cambria;
+    margin-bottom: 10px;
+    background-color: rgb(12, 32, 143);
+
+}
+
+.btn
+{
+    margin: 0px 90px;
+    padding: 10px 10px;
+    
+}
+
+p{
+
+    color: antiquewhite;
+    font-family:  'Roboto', Cambria;
+
+}
+
+.json-list{
+
+    color: antiquewhite;
+    font-family:  'Roboto', Cambria;
+
+}

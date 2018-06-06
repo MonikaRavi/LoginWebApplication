@@ -1,0 +1,16 @@
+<button (click)="signOut()" class="btn btn-primary sign-out">Sign Out</button>
+
+
+<p>
+
+  {{ userName }}
+
+</p>
+
+<ul class="json-list">
+  <li *ngFor="let item of items | async">
+      <pre>{{ item | json }}</pre>
+  </li>
+</ul>
+
+
